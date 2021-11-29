@@ -69,4 +69,3 @@ $('.pricing__order__mobile').slick({
   nextArrow:
     `<button type='button' class='slick-next pull-right slick-arrow-mobile'><ion-icon name="chevron-forward-outline"></ion-icon></button>`,
 });
-
